@@ -5,4 +5,4 @@ Paste this command in termux:
 `pkg install termux-am && termux-setup-storage && /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Saafork/gamemt-autoinstaller/refs/heads/main/setup.sh)"`
 
 # Doesn't configure Retroarch
-This tool ${BOLD}DOWNLOADS${NONE} retroarch. It does not configure it.
+This tool **DOWNLADS** retroarch. It does not configure it.
